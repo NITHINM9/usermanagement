@@ -77,7 +77,9 @@ http://localhost:8080/swagger-ui.html
 🐳 Run with Docker
 
 1️⃣ Build Docker Image
+
 docker build -t usermanagement .
 
 2️⃣ Run Container
+
 docker run -p 8080:8080 usermanagement
