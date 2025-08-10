@@ -55,7 +55,7 @@ A **Spring Boot** application providing secure user registration, authentication
 
 ### Prerequisites
 
-- [Java 17+]
+- Java 17+
 - [Maven](https://maven.apache.org/)
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) (recommended)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/) (for container run)
