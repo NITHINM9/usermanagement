@@ -34,6 +34,9 @@ A **Spring Boot** application providing secure user registration, authentication
 6. **API Documentation**
    - Swagger UI for testing & documentation.
    - <img width="1896" height="867" alt="image" src="https://github.com/user-attachments/assets/ea8f0b1f-99ff-4c79-b191-7db7f73d286a" />
+
+   - <img width="1896" height="877" alt="image" src="https://github.com/user-attachments/assets/92cdf322-1386-41e9-a105-442ca6fef8e7" />
+
    
 
 
