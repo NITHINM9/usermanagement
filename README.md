@@ -37,8 +37,8 @@ A **Spring Boot** application providing secure user registration, authentication
 
    - <img width="1896" height="877" alt="image" src="https://github.com/user-attachments/assets/92cdf322-1386-41e9-a105-442ca6fef8e7" />
 
+   -<img width="1901" height="864" alt="image" src="https://github.com/user-attachments/assets/e756747d-cfe1-43a9-a549-0b3c73eebbb9" />
    
-
 
 7. **Docker Support**
    - Easily build & run in a container.
