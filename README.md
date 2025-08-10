@@ -51,20 +51,6 @@ A **Spring Boot** application providing secure user registration, authentication
 
 ---
 
-## 📂 Project Structure
-src/
-├── main/
-│ ├── java/... # Source code
-│ ├── resources/
-│ ├── application.properties
-│ └── static / templates (if any)
-├── test/
-│ ├── java/... # JUnit & Cucumber tests
-│ └── resources/
-
-
----
-
 ## ⚡ Getting Started
 
 ### Prerequisites
